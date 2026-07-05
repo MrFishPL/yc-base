@@ -1,0 +1,26 @@
+---
+type: person
+title: Puneet
+slug: puneet
+aliases: []
+role: founder, investor
+updated: 2026-07-05
+---
+# Puneet — Compiled Truth
+
+Founder of **SuperDaily** (grocery delivery in India), which he scaled to ~$100M ARR with famously
+few engineers ("really had me plus one") and exited to **Swiggy**. Went through YC in Winter 2017
+(Jared Friedman was his group partner). Later a venture partner at Nexus; now building again. Speaks on the AI
+wave as India's chance to build global companies.
+
+**Recurring positions (cited):**
+- The AI wave rewards technical edge over go-to-market
+  [india-can-create-the-largest-ai-companies @ 05:07](https://youtu.be/Ju8LVdvuxGM?t=307).
+- Global selling no longer needs warm intros
+  [india-can-create-the-largest-ai-companies @ 06:26](https://youtu.be/Ju8LVdvuxGM?t=386).
+
+**See also:** [[india-can-create-the-largest-ai-companies]], [[building-at-the-edge-of-technology]]
+
+---
+## Timeline (append-only, reverse-chron, each entry dated + sourced)
+- 2026-07-05 — panelist — [india-can-create-the-largest-ai-companies @ 01:44](https://youtu.be/Ju8LVdvuxGM?t=104)

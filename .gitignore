@@ -1,0 +1,40 @@
+# Local tooling
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Audio is large and only a transient input to transcription — never commit it
+transcripts/raw/audio/
+*.m4a
+*.webm
+*.mp3
+*.wav
+
+# Personal Claude Code overrides
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Derived caches are rebuildable — keep them out of git unless you want them versioned.
+# (Comment these two lines out if you prefer to commit the derived indexes.)
+data/catalog.json
+kb/graph.json
+
+# Transient acquisition run artifacts (worklist.txt is kept as the canonical input list)
+scripts/videos.txt
+scripts/streams.txt
+scripts/remaining.txt
+scripts/remaining.info
+scripts/_*.json
+scripts/*.err
+scripts/*.log
+
+# Transcripts are NOT committed: 690MB of bulk YouTube captions is both repo-bloat and a
+# redistribution concern. They are regenerable from the channel with:
+#   scripts/acquire.sh  &&  python3 scripts/clean_vtt.py transcripts/raw
+# The distilled, cited kb/ pages (short quotes + links back to the source) ARE committed.
+transcripts/raw/
+transcripts/clean/
+
+# vestigial yt-dlp archive (acquire.sh resumes via scripts/remaining.py instead)
+transcripts/archive.txt

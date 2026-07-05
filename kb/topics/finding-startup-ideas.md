@@ -1,0 +1,35 @@
+---
+type: concept
+title: Finding Startup Ideas
+slug: finding-startup-ideas
+tags: [ideas, pivots, tinkering, early-stage]
+aliases: [startup ideas, idea generation]
+updated: 2026-07-05
+---
+# Finding Startup Ideas — Compiled Truth
+
+**Thesis:** Good startup ideas are usually **not obvious** and usually **not your first idea**.
+The reliable way to find them is to *build* — tinker, follow your curiosity, "live in the future
+and find what's missing," and work on things barely good enough for today's models. The bottlenecks
+you hit while building are the good ideas; you can't see them from a whiteboard.
+
+**State:** maturity: emerging (1 talk) · this is core YC canon — expect heavy reinforcement as
+more talks are ingested.
+
+**Why it holds (cited):**
+- "Live in the future and find what's missing... tinker and follow your curiosity and work on the
+  things that are barely good enough for the models to do"
+  [india-can-create-the-largest-ai-companies @ 13:49](https://youtu.be/Ju8LVdvuxGM?t=829).
+- "Almost every founder had the experience of their big idea was not their first idea... a good
+  startup idea is not obvious; you have to be in the field building to notice it"
+  [india-can-create-the-largest-ai-companies @ 14:28](https://youtu.be/Ju8LVdvuxGM?t=868).
+- With coding agents you can get something off the ground fast enough to discover many good ideas
+  "on nights and weekends" that a whiteboard would never surface
+  [india-can-create-the-largest-ai-companies @ 15:03](https://youtu.be/Ju8LVdvuxGM?t=903).
+
+**See also:** [[building-at-the-edge-of-technology]], [[india-can-create-the-largest-ai-companies]]
+
+---
+## Timeline (append-only, reverse-chron, each entry dated + sourced)
+- 2026-07-05 — "build to find non-obvious ideas; the big idea isn't the first idea; live in the
+  future and find what's missing" — from [india-can-create-the-largest-ai-companies @ 14:28](https://youtu.be/Ju8LVdvuxGM?t=868)

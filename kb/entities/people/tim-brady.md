@@ -1,0 +1,34 @@
+---
+type: person
+title: "Tim Brady"
+slug: tim-brady
+aliases: []
+role: YC Group Partner
+updated: 2026-07-05
+---
+# Tim Brady — Compiled Truth
+
+YC Group Partner with 30 years in Silicon Valley who teaches the unglamorous mechanics of running
+an early-stage company: how to calculate the metrics investors will always ask about (burn rate,
+runway, growth rate), how to allocate scarce early equity, and how to deliberately build a culture
+through a company's first ~20 hires. His recurring throughline is that founders should replace gut
+feel and vague averages with disciplined, correctly-calculated numbers and explicit, values-driven
+decisions — whether that's compounding growth rates properly, treating equity as a tool to increase
+the odds of success rather than a fixed pie, or making sure early hires embody the values the
+founders want to scale.
+
+**Talks:** 3 in the corpus.
+**See also:** [[metrics]], [[equity]], [[company-culture]], [[hiring]], [[early-employees]]
+
+---
+## Timeline (append-only, reverse-chron, each entry dated + sourced)
+- 2026-07-05 — In 30 years in Silicon Valley, Brady has never talked to a successful entrepreneur who said they were too generous with their early employees [tim-brady-how-much-equity-should-i-give-my-first-employees @ 04:13](https://youtu.be/B2QdN0-fAbw?t=253)
+- 2026-07-05 — Founders must be genuinely proud of the problem they're solving, since a lack of identification with customers causes people to give up when times get hard, illustrated by a founder whose team drifted into makeup for teenage girls and shut down [tim-brady-building-culture @ 05:27](https://youtu.be/qnNHW6TYv5I?t=327)
+- 2026-07-05 — The first ~20 employees are a company's "cultural DNA" because they will be the ones hiring and training the next wave, so mistakes made early get propagated [tim-brady-building-culture @ 02:48](https://youtu.be/qnNHW6TYv5I?t=168)
+- 2026-07-05 — Externally-focused values (like Google's "don't be evil") give better guardrails than internally-focused ones (like Facebook's "move fast and break things"), which offer no guidance on what not to build [tim-brady-building-culture @ 12:06](https://youtu.be/qnNHW6TYv5I?t=726)
+- 2026-07-05 — Since most startups fail and only a few become big successes, equity should be seen as a tool to increase the odds of success rather than a fixed pie to divide [tim-brady-how-much-equity-should-i-give-my-first-employees @ 03:25](https://youtu.be/B2QdN0-fAbw?t=205)
+- 2026-07-05 — The first employee, typically an engineer at a traditional Silicon Valley startup, traditionally gets between 1-2%, with online ranges spanning 0.5% to 3% [tim-brady-how-much-equity-should-i-give-my-first-employees @ 02:17](https://youtu.be/B2QdN0-fAbw?t=137)
+- 2026-07-05 — A common founder mistake is claiming revenue that grew 6x over six months means a 100% growth rate, when the correct compounded monthly rate is closer to 35% [tim-brady-how-do-you-calculate-burn-rate-runway-and-growth-r @ 03:46](https://youtu.be/aDM8CNnCOwk?t=226)
+- 2026-07-05 — Growth rate should be expressed as a compounded number (CMGR, compounded monthly growth rate), not a simple average over the period [tim-brady-how-do-you-calculate-burn-rate-runway-and-growth-r @ 03:00](https://youtu.be/aDM8CNnCOwk?t=180)
+- 2026-07-05 — Recurring revenue (like monthly subscriptions, tracked as MRR) is valued more highly by investors than non-recurring, one-off revenue like e-commerce sales [tim-brady-how-do-you-calculate-burn-rate-runway-and-growth-r @ 04:59](https://youtu.be/aDM8CNnCOwk?t=299)
+- 2026-07-05 — Runway is cash on hand divided by burn rate, e.g. $200 in the bank with a $10 burn rate gives 20 months of runway [tim-brady-how-do-you-calculate-burn-rate-runway-and-growth-r @ 01:16](https://youtu.be/aDM8CNnCOwk?t=76)

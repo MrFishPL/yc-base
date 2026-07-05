@@ -1,0 +1,10 @@
+# yc-base local tooling — all local, no hosted APIs.
+# The stdlib pipeline scripts (clean_vtt, build_catalog, build_graph, search, validate) need NONE of this.
+
+# Acquisition: download captions + metadata from YouTube (free, local).
+yt-dlp>=2025.1.1
+
+# OPTIONAL — only for transcribing the ~5-10% of videos that lack usable captions.
+# Runs locally (CPU or GPU). Public model weights; no HuggingFace login required.
+# Comment out if you're captions-only for now.
+faster-whisper>=1.0.0
