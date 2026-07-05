@@ -67,6 +67,9 @@ updated: 2026-07-05
   `mm:ss` → seconds: `minutes*60 + seconds`. Never invent a timestamp.
 - **Link, don't duplicate.** Shared ideas are `[[wikilinks]]` to topic/entity pages.
 - **Preserve `[mm:ss]` markers** already present in `transcripts/clean/`.
-- After editing `kb/`, the derived caches are stale — rebuild with
-  `python3 scripts/build_catalog.py` and `python3 scripts/build_graph.py`, and run
-  `python3 scripts/validate.py`.
+- After editing `kb/`, the derived layers are stale — rebuild them:
+  `python3 scripts/build_nav.py` (series pages + "Browse all N talks" backlinks) →
+  `python3 scripts/build_index.py` (INDEX) → `python3 scripts/build_catalog.py` →
+  `python3 scripts/build_graph.py`, then `python3 scripts/validate.py`.
+- The "Browse all N talks…" block on topic/person pages is between `<!-- NAV:START -->` /
+  `<!-- NAV:END -->` markers and is **regenerated** by `build_nav.py` — don't hand-edit inside it.

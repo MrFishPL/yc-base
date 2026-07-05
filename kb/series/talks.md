@@ -1,0 +1,405 @@
+---
+type: series
+title: "Talks & Interviews"
+slug: talks
+updated: 2026-07-05
+---
+# Talks & Interviews
+
+370 talks in the corpus, newest first. Follow any link below to open the talk page.
+
+### 2026
+- [[india-can-create-the-largest-ai-companies]] — India Can Create The Largest AI Companies
+- [[zynga-founder-consumer-is-not-investible-right-now-thats-why]] — Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It
+- [[how-to-get-your-first-10-customers]] — How to Get Your First 10 Customers
+- [[pick-one-idea-and-go-deep]] — Pick One Idea and Go Deep
+- [[groww-if-your-customers-don-t-love-it-or-hate-it-you-ve-alre]] — Groww: If Your Customers Don't Love It or Hate It, You've Already Lost
+- [[self-play-for-llms-ai-for-biology-formal-verification-and-mo]] — Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club
+- [[emergent-how-six-months-of-tinkering-led-to-a-100m-arr-compa]] — Emergent: How Six Months of Tinkering Led To A $100M ARR Company
+- [[how-legora-went-from-yc-to-100m-arr-in-18-months]] — How Legora Went From YC to $100M ARR in 18 Months
+- [[conductor-ceo-charlie-holtz-walks-us-through-his-ai-coding-s]] — Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup
+- [[how-to-build-an-ai-native-services-company]] — How to Build an AI-Native Services Company
+- [[why-two-iit-engineers-turned-down-550k-jobs-to-build-a-start]] — Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup
+- [[inference-diffusion-world-models-and-more-yc-paper-club]] — Inference, Diffusion, World Models, and More | YC Paper Club
+- [[how-to-build-a-self-improving-company-with-ai]] — How to Build a Self-Improving Company with AI
+- [[zepto-how-two-17-year-olds-built-india-s-largest-seller-of-f]] — Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables
+- [[paul-graham-founder-of-y-combinator-live-from-stockholm]] — Paul Graham, Founder of Y Combinator, Live from Stockholm
+- [[recursion-is-the-next-scaling-law-in-ai]] — Recursion Is The Next Scaling Law In AI
+- [[replit-s-ceo-on-the-only-two-jobs-left-in-the-company-of-the]] — Replit's CEO On The Only Two Jobs Left In The Company Of The Future
+- [[how-to-build-a-company-with-ai-from-the-ground-up]] — How To Build A Company With AI From The Ground Up
+- [[how-to-make-claude-code-your-ai-engineering-team]] — How to Make Claude Code Your AI Engineering Team
+- [[how-stripe-built-their-new-website]] — How Stripe Built Their New Website
+- [[billiontoone-is-solving-one-of-biotech-s-hardest-problems]] — BillionToOne Is Solving One of Biotech's Hardest Problems
+- [[this-startup-catches-fraud-at-scale]] — This Startup Catches Fraud at Scale
+- [[fran-ois-chollet-why-scaling-alone-isn-t-enough-for-agi]] — François Chollet: Why Scaling Alone Isn't Enough for AGI
+- [[inside-the-startup-reinventing-the-6-trillion-chemical-manuf]] — Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry
+- [[ai-is-unlocking-millions-of-new-builders]] — AI Is Unlocking Millions Of New Builders
+- [[the-future-of-brain-computer-interfaces]] — The Future Of Brain-Computer Interfaces
+- [[common-mistakes-with-vibe-coded-websites]] — Common Mistakes With Vibe Coded Websites
+- [[the-new-way-to-build-a-startup]] — The New Way To Build A Startup
+- [[openclaw-creator-why-80-of-apps-will-disappear]] — OpenClaw Creator: Why 80% Of Apps Will Disappear
+- [[how-we-redesigned-our-website]] — How We Redesigned Our Website
+- [[why-your-startup-website-isn-t-converting]] — Why Your Startup Website Isn't Converting
+- [[the-ml-technique-every-founder-should-know]] — The ML Technique Every Founder Should Know
+- [[how-to-get-your-first-users]] — How To Get Your First Users
+- [[inside-the-startup-building-reusable-rockets]] — Inside The Startup Building Reusable Rockets
+
+### 2025
+- [[how-intelligent-is-ai-really]] — How Intelligent Is AI, Really?
+- [[the-best-consumer-startup-ideas-were-impossible-until-now]] — The Best Consumer Startup Ideas Were Impossible Until Now
+- [[cursor-head-of-design-roasts-startup-websites]] — Cursor Head of Design Roasts Startup Websites
+- [[inside-the-startup-launching-ai-data-centers-into-space]] — Inside The Startup Launching AI Data Centers Into Space
+- [[the-startup-playbook-for-hiring-your-first-engineers-and-aes]] — The Startup Playbook for Hiring Your First Engineers and AEs
+- [[from-idea-to-650m-exit-lessons-in-building-ai-startups]] — From Idea to $650M Exit: Lessons in Building AI Startups
+- [[transformers-explained-the-discovery-that-changed-ai-forever]] — Transformers Explained: The Discovery That Changed AI Forever
+- [[startup-advice-ai-gtm-pivoting-how-to-hire]] — Startup Advice: AI GTM, Pivoting & How To Hire
+- [[what-everyone-is-getting-wrong-about-ai-and-jobs]] — What Everyone Is Getting Wrong About AI And Jobs
+- [[this-startup-is-trying-to-delete-29-of-all-co2-emissions]] — This Startup Is Trying To Delete 29% Of All CO2 Emissions
+- [[ask-these-questions-before-starting-an-ai-startup]] — Ask These Questions Before Starting An AI Startup
+- [[anthropic-head-of-pretraining-on-scaling-laws-compute-and-th]] — Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI
+- [[why-now-is-the-best-time-to-build-in-crypto]] — Why Now Is The Best Time To Build In Crypto
+- [[aaron-levie-why-startups-win-in-the-ai-era]] — Aaron Levie: Why Startups Win In The AI Era
+- [[the-future-of-software-creation-with-replit-ceo-amjad-masad]] — The Future of Software Creation with Replit CEO Amjad Masad
+- [[michael-truell-building-cursor-at-23-taking-on-github-copilo]] — Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students
+- [[openai-vs-deepseek-vs-qwen-comparing-open-source-llm-archite]] — OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures
+- [[how-this-25-year-old-built-a-675m-legal-ai-startup-with-no-l]] — How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
+- [[dylan-field-scaling-figma-and-the-future-of-design]] — Dylan Field: Scaling Figma and the Future of Design
+- [[the-finance-startup-bringing-agentic-ai-to-wall-street]] — The Finance Startup Bringing Agentic AI to Wall Street
+- [[scaling-and-the-road-to-human-level-ai-anthropic-co-founder-]] — Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
+- [[brand-design-tips-from-linear-founder-karri-saarinen]] — Brand Design Tips From Linear Founder Karri Saarinen
+- [[chelsea-finn-building-robots-that-can-do-anything]] — Chelsea Finn: Building Robots That Can Do Anything
+- [[how-replit-went-from-10m-to-100m-arr-in-just-9-months]] — How Replit Went From $10M to $100M ARR In Just 9 Months
+- [[nobel-laureate-john-jumper-ai-is-revolutionizing-scientific-]] — Nobel Laureate John Jumper: AI is Revolutionizing Scientific Discovery
+- [[aravind-srinivas-perplexity-s-race-to-build-agentic-search]] — Aravind Srinivas: Perplexity's Race to Build Agentic Search
+- [[fran-ois-chollet-how-we-get-to-agi]] — François Chollet: How We Get To AGI
+- [[fei-fei-li-spatial-intelligence-is-the-next-frontier-in-ai]] — Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI
+- [[legendary-consumer-vc-predicts-the-future-of-ai-products]] — Legendary Consumer VC Predicts The Future Of AI Products
+- [[satya-nadella-microsoft-s-ai-bets-hyperscaling-quantum-compu]] — Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
+- [[sam-altman-the-future-of-openai-chatgpt-s-origins-and-buildi]] — Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
+- [[andrej-karpathy-software-is-changing-again]] — Andrej Karpathy: Software Is Changing (Again)
+- [[elon-musk-digital-superintelligence-multiplanetary-life-how-]] — Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
+- [[cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-]] — Cursor CEO: Going Beyond Code, Superintelligent AI Agents, And Why Taste Still Matters
+- [[fusion-energy-will-power-the-ai-boom]] — Fusion Energy Will Power the AI Boom
+- [[how-zepto-became-india-s-fastest-growing-startup]] — How Zepto Became India's Fastest Growing Startup
+- [[the-next-breakthrough-in-ai-agents-is-here]] — The Next Breakthrough In AI Agents Is Here
+- [[how-to-build-a-truly-abundant-future]] — How To Build A Truly Abundant Future
+- [[what-founders-can-do-to-improve-their-design-game]] — What Founders Can Do To Improve Their Design Game
+- [[doordash-ceo-customer-obsession-surviving-startup-death-crea]] — DoorDash CEO: Customer Obsession, Surviving Startup Death & Creating A New Market
+- [[from-a-pivot-to-building-a-9-6-billion-payroll-company]] — From A Pivot To Building A $9.6 Billion Payroll Company
+- [[gpt-4-5-big-model-energy-yc-decoded]] — GPT-4.5 = Big Model Energy | YC Decoded
+- [[ai-interfaces-of-the-future-design-review]] — AI Interfaces Of The Future | Design Review
+- [[how-to-build-the-future-aravind-srinivas]] — How To Build The Future: Aravind Srinivas
+- [[how-blake-scholl-built-the-first-independent-supersonic-jet]] — How Blake Scholl Built The First Independent Supersonic Jet
+- [[the-right-and-wrong-way-to-spend-money-at-your-startup]] — The Right (And Wrong) Way To Spend Money At Your Startup
+- [[the-engineering-unlocks-behind-deepseek-yc-decoded]] — The Engineering Unlocks Behind DeepSeek | YC Decoded
+- [[bob-mcgrew-ai-agents-and-the-path-to-agi]] — Bob McGrew: AI Agents And The Path To AGI
+- [[how-scaling-laws-will-determine-ai-s-future-yc-decoded]] — How Scaling Laws Will Determine AI's Future | YC Decoded
+- [[how-to-use-ai-in-your-startup]] — How To Use AI In Your Startup
+- [[how-to-build-the-future-parker-conrad]] — How To Build The Future: Parker Conrad
+- [[building-a-2-billion-saas-company-lessons-from-a-two-time-fo]] — Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
+
+### 2024
+- [[how-david-lieb-turned-a-failing-startup-into-google-photos-b]] — How David Lieb Turned a Failing Startup Into Google Photos | Backstory
+- [[VDmU0jjklBo.en-en-US]] — VDmU0jjklBo.en-en-US
+- [[anthropic-s-claude-computer-use-is-a-game-changer-yc-decoded]] — Anthropic’s Claude Computer Use Is A Game Changer | YC Decoded
+- [[z1aKRhRnVNk.en-en-US]] — z1aKRhRnVNk.en-en-US
+- [[twitter-vs-x-product-lessons-for-startup-founders]] — Twitter vs. X: Product Lessons For Startup Founders
+- [[how-to-build-the-future-sam-altman]] — How To Build The Future: Sam Altman
+- [[you-don-t-have-to-be-a-billionaire-to-launch-satellites]] — You Don't Have To Be A Billionaire To Launch Satellites
+- [[why-openai-s-o1-is-a-huge-deal-yc-decoded]] — Why OpenAI's o1 Is A Huge Deal | YC Decoded
+- [[why-design-matters-lessons-from-stripe-lyft-and-airbnb]] — Why Design Matters: Lessons from Stripe, Lyft and Airbnb
+- [[how-do-billion-dollar-startups-start]] — How Do Billion Dollar Startups Start?
+- [[stripe-head-of-design-katie-dill-reviews-startup-websites]] — Stripe Head of Design Katie Dill Reviews Startup Websites
+- [[how-nothing-founder-carl-pei-built-a-multi-million-dollar-sm]] — How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+- [[why-startup-founders-should-launch-companies-sooner-than-the]] — Why Startup Founders Should Launch Companies Sooner Than They Think
+- [[standing-up-for-startups-yc-goes-to-d-c]] — Standing Up For Startups - YC Goes To D.C.
+- [[startup-experts-discuss-doing-things-that-don-t-scale]] — Startup Experts Discuss Doing Things That Don't Scale
+- [[does-your-startup-website-pass-the-first-impression-test-des]] — Does Your Startup Website Pass The First Impression Test? | Design Review
+- [[how-to-survive-the-crypto-boom-bust-cycle]] — How to Survive the Crypto Boom & Bust Cycle
+- [[tom-blomfield-how-i-created-two-billion-dollar-fintech-start]] — Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups
+
+### 2023
+- [[critiquing-software-startup-websites-with-ceo-of-glide]] — Critiquing Software Startup Websites with CEO of Glide
+- [[ai-startup-founders-debate-the-creation-of-artificial-genera]] — AI Startup Founders Debate the Creation of Artificial General Intelligence
+- [[ai-and-the-future-of-law-the-10-year-overnight-success-story]] — AI and the Future of Law: The 10 Year Overnight Success Story
+- [[qFBUd0b8TjY.en-en-US]] — qFBUd0b8TjY.en-en-US
+- [[design-tips-to-convert-more-customers-design-review]] — Design Tips to Convert More Customers | Design Review
+- [[tJTxDqjO4vg.en-en-US]] — tJTxDqjO4vg.en-en-US
+- [[50-founders-share-why-they-applied-to-y-combinator]] — 50 Founders Share Why They Applied To Y Combinator
+- [[startup-experts-reveal-their-top-productivity-advice]] — Startup Experts Reveal Their Top Productivity Advice
+- [[how-surbhi-sarna-built-a-275m-biotech-company-from-nothing]] — How Surbhi Sarna Built A $275M Biotech Company From Nothing
+- [[40-ai-founders-discuss-current-artificial-intelligence-techn]] — 40 AI Founders Discuss Current Artificial Intelligence Technology
+- [[critiquing-startup-mobile-apps-with-glide-ceo]] — Critiquing Startup Mobile Apps with Glide CEO
+- [[startup-experts-share-their-investor-horror-stories]] — Startup Experts Share Their Investor Horror Stories
+- [[50-founders-share-how-they-got-their-first-customers]] — 50 Founders Share How They Got Their First Customers
+- [[60-startup-founders-share-how-they-met-their-co-founder]] — 60 Startup Founders Share How They Met Their Co-Founder
+- [[startup-experts-reveal-their-favorite-pivot-stories]] — Startup Experts Reveal Their Favorite Pivot Stories
+- [[critiquing-ai-startup-websites-with-yc-president-garry-tan]] — Critiquing AI Startup Websites with YC President Garry Tan
+- [[how-to-go-from-startup-dream-to-reality]] — How To Go From Startup Dream To Reality
+- [[the-immigrant-journey-behind-a-silicon-valley-success-story]] — The Immigrant Journey Behind A Silicon Valley Success Story
+- [[inside-the-most-powerful-startup-community-in-the-world]] — Inside The Most Powerful Startup Community In The World
+- [[the-real-potential-of-generative-ai]] — The REAL potential of generative AI
+
+### 2022
+- [[critiquing-startup-websites-with-webflow-ceo]] — Critiquing Startup Websites With Webflow CEO
+- [[big-changes-at-y-combinator-an-inside-look-with-s22-founders]] — Big Changes at Y Combinator? An Inside Look with S22 Founders
+- [[advantages-of-a-first-time-founder]] — Advantages Of A First-Time Founder
+- [[the-two-mindsets-that-can-kill-your-startup]] — The Two Mindsets That Can KILL Your Startup
+- [[what-basic-game-theory-teaches-us-about-startups]] — What Basic Game Theory Teaches Us About Startups
+- [[the-better-customer-startups-or-big-enterprise]] — The Better Customer–Startups or Big Enterprise?
+- [[lessons-from-the-founders-scaling-their-startup-in-a-war-zon]] — Lessons From The Founders Scaling Their Startup In A War Zone
+- [[turning-your-users-into-paying-customers]] — Turning Your Users Into Paying Customers
+- [[don-t-make-these-hiring-mistakes]] — Don't Make These Hiring Mistakes
+- [[critiquing-startup-websites-with-instacart-s-first-designer]] — Critiquing Startup Websites With Instacart's First Designer
+
+### 2021
+- [[embark-trucks-application-video-for-yc-w16]] — Embark Trucks' Application Video for YC W16
+- [[weave-s-application-video-for-yc-w14]] — Weave's Application Video for YC W14
+- [[how-to-find-the-right-co-founder]] — How to Find the Right Co-founder
+- [[future-founders-conference-for-women-globally]] — Future Founders Conference for Women Globally
+- [[squire-edlyft-promise-the-journey-challenges-impact]] — Squire, Edlyft, Promise: The Journey, Challenges, & Impact
+- [[harj-taggar-choosing-a-startup-to-work-at]] — Harj Taggar - Choosing a Startup to Work At
+- [[harj-taggar-how-startups-can-compete-with-faang-companies-wh]] — Harj Taggar - How Startups can Compete with FAANG Companies when Hiring Employees
+- [[tim-brady-how-do-you-calculate-burn-rate-runway-and-growth-r]] — Tim Brady - How do you calculate burn rate, runway and growth rate?
+- [[tim-brady-how-much-equity-should-i-give-my-first-employees]] — Tim Brady - How Much Equity Should I Give My First Employees?
+- [[2021-yc-top-companies-on-their-startup-journey]] — 2021 YC Top Companies on Their Startup Journey
+
+### 2020
+- [[essential-startup-advice-during-a-pandemic]] — Essential Startup Advice During a Pandemic
+- [[doordash-at-yc-summer-2013-demo-day]] — DoorDash at YC Summer 2013 Demo Day
+- [[doordash-s-application-video-for-yc-s13]] — DoorDash's Application Video for YC S13
+- [[designing-characters-with-deep-learning-spellbrush-w18-yc-ga]] — Designing Characters with Deep Learning: Spellbrush (W18) - YC Gaming Tech Talks 2020
+- [[desining-from-day-one-artists-as-founders-multiverse-s20-yc-]] — Desining from Day One: Artists as Founders: Multiverse (S20) - YC Gaming Tech Talks 2020
+- [[mmos-in-the-instagram-era-highrise-s18-yc-gaming-tech-talks-]] — MMOs in the Instagram Era: Highrise (S18) - YC Gaming Tech Talks 2020
+- [[synthetic-media-virtual-influencers-live-animation-figments-]] — Synthetic Media: Virtual Influencers & Live Animation: Figments (S19) - YC Gaming Tech Talks 2020
+- [[athlane-s19-yc-tech-talks-gaming-2020-november-9-2020]] — Athlane (S19) - YC Tech Talks, Gaming 2020 (November 9, 2020)
+- [[dreamcraft-s18-yc-tech-talks-gaming-2020-november-9th-2020]] — Dreamcraft (S18) - YC Tech Talks: Gaming 2020 (November 9th, 2020)
+- [[ramen-vr-s19-yc-tech-talks-gaming-2020-november-9th-2020]] — Ramen VR (S19) - YC Tech Talks: Gaming 2020 (November 9th, 2020)
+- [[volley-w18-yc-tech-talks-gaming-2020-november-9th-2020]] — Volley (W18) - YC Tech Talks: Gaming 2020 (November 9th, 2020)
+- [[diego-saez-gil-how-pachama-uses-tech-to-solve-climate-change]] — Diego Saez Gil - How Pachama Uses Tech to Solve Climate Change
+
+### 2019
+- [[amber-atherton-of-zyper-and-iba-masood-of-tara-on-raising-a-]] — Amber Atherton of Zyper and Iba Masood of TARA on Raising a Series A as a Female Founder
+- [[laks-srini-on-making-homeownership-in-reach-with-zerodown]] — Laks Srini on Making Homeownership in Reach with ZeroDown
+- [[matt-cutts-on-the-us-digital-service-and-working-at-google-f]] — Matt Cutts on the US Digital Service and Working at Google for 17 Years
+- [[cory-doctorow-and-joe-betts-lacroix-on-adversarial-interoper]] — Cory Doctorow and Joe Betts-Lacroix on Adversarial Interoperability
+- [[why-fundraising-is-different-in-silicon-valley-michael-seibe]] — Why Fundraising Is Different In Silicon Valley - Michael Seibel
+- [[how-much-should-you-spend-after-fundraising-gustaf-alstr-mer]] — How Much Should You Spend After Fundraising? - Gustaf Alströmer
+- [[consume-information-that-encourages-you-to-do-more-dalton-ca]] — Consume Information That Encourages You To Do More - Dalton Caldwell
+- [[diana-hu-on-augmented-reality-and-building-a-startup-in-a-ne]] — Diana Hu on Augmented Reality and Building a Startup in a New Market
+- [[jay-reno-of-feather-a-furniture-subscription-startup]] — Jay Reno of Feather, a Furniture Subscription Startup
+- [[how-do-you-convince-someone-to-join-your-startup-dalton-cald]] — How Do You Convince Someone to Join Your Startup? - Dalton Caldwell
+- [[econtalk-host-russ-roberts-on-key-economic-concepts-for-foun]] — EconTalk Host Russ Roberts on Key Economic Concepts for Founders
+- [[can-you-apply-to-yc-before-you-have-a-us-visa-jared-friedman]] — Can You Apply to YC Before You Have a US Visa? - Jared Friedman
+- [[camille-fournier-on-managing-technical-teams]] — Camille Fournier on Managing Technical Teams
+- [[michael-seibel-how-do-you-decide-what-to-build-next]] — Michael Seibel: How do you decide what to build next?
+- [[ooshma-garg-what-are-some-of-the-challenges-you-face-as-the-]] — Ooshma Garg: What are some of the challenges you face as the CEO of your startup?
+- [[paul-buchheit-what-are-some-things-successful-founders-have-]] — Paul Buchheit: What are some things successful founders have in common?
+- [[paul-buchheit-what-traits-do-startups-need-to-succeed]] — Paul Buchheit: What traits do startups need to succeed?
+- [[paul-graham-what-are-some-common-mistakes-founders-make]] — Paul Graham: What are some common mistakes founders make?
+- [[paul-graham-what-does-it-mean-to-do-things-that-don-t-scale]] — Paul Graham: What does it mean to do things that don't scale?
+- [[paul-graham-when-should-you-launch-your-startup]] — Paul Graham: When should you launch your startup?
+- [[what-successful-founders-focus-on-dalton-caldwell]] — What Successful Founders Focus On - Dalton Caldwell
+- [[startup-hiring-advice-from-lever-ceo-sarah-nahm-with-holly-l]] — Startup Hiring Advice from Lever CEO Sarah Nahm with Holly Liu
+- [[work-at-a-startup-expo-2019]] — Work at a Startup Expo 2019
+- [[advice-on-organizing-and-running-growth-teams-from-dan-hocke]] — Advice on Organizing and Running Growth Teams from Dan Hockenmaier and Gustaf Alströmer
+- [[jeremy-rossmann-of-make-school-on-income-share-agreements-an]] — Jeremy Rossmann of Make School on Income Share Agreements and the Future of College
+- [[should-you-move-your-company-to-silicon-valley-eric-migicovs]] — Should You Move Your Company to Silicon Valley? - Eric Migicovsky, Pebble Founder
+- [[tracy-young-on-scaling-plangrid-to-400-people-with-yc-partne]] — Tracy Young on Scaling PlanGrid to 400+ People with YC Partner Kat Manalac
+- [[how-much-equity-to-give-your-cofounder-michael-seibel]] — How Much Equity to Give Your Cofounder - Michael Seibel
+- [[simone-giertz-on-her-robots-and-returning-to-work-after-brai]] — Simone Giertz on Her Robots and Returning to Work After Brain Surgery
+- [[most-startups-are-undercharging-dalton-caldwell]] — Most Startups Are Undercharging - Dalton Caldwell
+- [[analyzing-billions-of-transactions-to-understand-consumer-be]] — Analyzing Billions of Transactions to Understand Consumer Behavior - Michael Babineau and Kevin Hale
+- [[how-to-find-a-cofounder-kat-manalac]] — How to Find a Cofounder - Kat Manalac
+- [[vidit-aatrey-on-building-meesho-india-s-top-reselling-platfo]] — Vidit Aatrey on Building Meesho, India's Top Reselling Platform, with Adora Cheung
+- [[request-for-startups-government-2-0-michael-seibel]] — Request for Startups: Government 2.0 - Michael Seibel
+- [[working-at-big-tech-companies-can-be-a-trap-michael-seibel]] — Working at Big Tech Companies Can Be a Trap - Michael Seibel
+- [[when-is-the-right-time-to-apply-to-y-combinator-jared-friedm]] — When is the Right Time to Apply to Y Combinator? - Jared Friedman
+- [[monetizing-podcasts-and-newsletters-chris-best-of-substack-a]] — Monetizing Podcasts and Newsletters - Chris Best of Substack and Jonathan Gill of Backtracks
+- [[how-to-create-luck-dalton-caldwell-y-combinator-partner]] — How to Create Luck - Dalton Caldwell, Y Combinator Partner
+- [[hubspot-ceo-and-cofounder-brian-halligan-with-wufoo-cofounde]] — HubSpot CEO and Cofounder Brian Halligan with Wufoo Cofounder Kevin Hale
+- [[software-engineer-turned-youtuber-jarvis-johnson]] — Software Engineer Turned Youtuber - Jarvis Johnson
+- [[startup-advisor-equity-pebble-watch-founder-eric-migicovsky]] — Startup Advisor Equity? - Pebble Watch Founder Eric Migicovsky
+- [[should-i-use-a-dev-shop-michael-seibel]] — Should I Use a Dev Shop? - Michael Seibel
+- [[hiring-tips-from-pebble-watch-founder-eric-migicovsky]] — Hiring Tips from Pebble Watch Founder Eric Migicovsky
+- [[how-to-find-a-technical-cofounder-michael-seibel]] — How to Find a Technical Cofounder - Michael Seibel
+- [[google-photos-product-lead-and-bump-cofounder-david-lieb-wit]] — Google Photos Product Lead and Bump Cofounder David Lieb with Gustaf Alströmer
+- [[how-to-get-and-test-startup-ideas-michael-seibel]] — How to Get and Test Startup Ideas - Michael Seibel
+- [[a-cs-education-that-s-free-until-you-get-a-job-austen-allred]] — A CS Education That's Free Until You Get a Job - Austen Allred of Lambda School
+- [[marques-brownlee-on-building-an-audience-and-other-advice-fo]] — Marques Brownlee on Building an Audience and Other Advice for Creators
+- [[how-pitching-investors-is-different-than-pitching-customers-]] — How Pitching Investors is Different Than Pitching Customers - Michael Seibel
+- [[mike-knoop-on-product-and-design-processes-for-remote-teams-]] — Mike Knoop on Product and Design Processes for Remote Teams with Kevin Hale
+- [[karn-saroya-on-the-capital-light-way-to-start-an-insurance-b]] — Karn Saroya on the Capital-Light Way to Start an Insurance Business
+- [[ryan-hoover-on-product-hunt-s-acquisition-and-lessons-learne]] — Ryan Hoover on Product Hunt's Acquisition and Lessons Learned About Launches with Dalton Caldwell
+- [[what-shutting-down-your-startup-feels-like-avni-patel-thomps]] — What Shutting Down Your Startup Feels Like - Avni Patel Thompson of Poppy with Kat Manalac
+- [[cindy-mi-and-qi-lu-share-advice-for-entrepreneurs-building-g]] — Cindy Mi and Qi Lu Share Advice for Entrepreneurs Building Global Companies
+- [[vinod-khosla-how-to-build-the-future]] — Vinod Khosla : How to Build the Future
+
+### 2018
+- [[frank-lantz-director-of-nyu-s-game-center-and-creator-of-uni]] — Frank Lantz - Director of NYU's Game Center and Creator of Universal Paperclips
+- [[starting-a-startup-after-business-school-reham-fagiri-and-ka]] — Starting a Startup After Business School - Reham Fagiri and Kalam Dennis of AptDeco
+- [[leonard-susskind-on-richard-feynman-the-holographic-principl]] — Leonard Susskind on Richard Feynman, the Holographic Principle, and Unanswered Questions in Physics
+- [[one-order-of-operations-for-starting-a-startup-by-michael-se]] — One Order of Operations for Starting a Startup by Michael Seibel
+- [[users-you-don-t-want-by-michael-seibel]] — Users You Don't Want by Michael Seibel
+- [[why-does-your-company-deserve-more-money-by-michael-seibel]] — Why Does Your Company Deserve More Money? by Michael Seibel
+- [[why-should-i-start-a-startup-by-michael-seibel]] — Why Should I Start a Startup? by Michael Seibel
+- [[andrew-kortina-of-venmo-and-fin-on-technological-determinism]] — Andrew Kortina of Venmo and Fin on Technological Determinism and Work's Relationship to Dignity
+- [[brian-donohue-on-operating-instapaper-through-an-acquisition]] — Brian Donohue on Operating Instapaper Through an Acquisition
+- [[a-conversation-with-werner-vogels]] — A Conversation with Werner Vogels
+- [[sam-altman-on-choosing-projects-creating-value-and-finding-p]] — Sam Altman on Choosing Projects, Creating Value, and Finding Purpose
+- [[helping-african-businesses-get-paid-shola-akinlade-of-paysta]] — Helping African Businesses Get Paid, Shola Akinlade of Paystack
+- [[a-conversation-on-hard-tech-with-eric-migicovsky]] — A Conversation on Hard Tech with Eric Migicovsky
+- [[cannabis-startup-founders-david-hua-and-vincent-ning-on-lega]] — Cannabis Startup Founders David Hua and Vincent Ning on Legalization, Banking, and Industry Trends
+- [[a-conversation-with-elizabeth-iorns-advice-for-biotech-found]] — A Conversation with Elizabeth Iorns - Advice for Biotech Founders
+- [[mathilde-collin-on-feature-prioritization-and-employee-reten]] — Mathilde Collin on Feature Prioritization and Employee Retention at Front
+- [[running-your-company-by-patrick-collison]] — Running Your Company by Patrick Collison
+- [[how-to-apply-and-succeed-at-y-combinator-by-dalton-caldwell]] — How to Apply and Succeed at Y Combinator by Dalton Caldwell
+- [[seo-advice-from-surveymonkey-director-of-seo-and-growth-eli-]] — SEO Advice from SurveyMonkey Director of SEO and Growth, Eli Schwartz
+- [[female-founders-conference-mountain-view]] — Female Founders Conference - Mountain View
+- [[joan-lasenby-on-applications-of-geometric-algebra-in-enginee]] — Joan Lasenby on Applications of Geometric Algebra in Engineering
+- [[a-conversation-with-ooshma-garg-moderated-by-adora-cheung]] — A Conversation with Ooshma Garg - Moderated by Adora Cheung
+- [[peter-reinhardt-on-finding-product-market-fit-at-segment]] — Peter Reinhardt on Finding Product Market Fit at Segment
+- [[ryan-petersen-on-building-flexport-a-modern-freight-forwarde]] — Ryan Petersen on Building Flexport, a Modern Freight Forwarder
+- [[david-zeevi-on-personalized-nutrition-based-on-your-gut-micr]] — David Zeevi on Personalized Nutrition Based on Your Gut Microbiome
+- [[jessica-brillhart-immersive-director-on-vr-and-ar]] — Jessica Brillhart, Immersive Director, on VR and AR
+- [[work-at-a-startup-expo-2018]] — Work at a Startup Expo 2018
+- [[elad-gil-shares-advice-from-the-high-growth-handbook-a-guide]] — Elad Gil Shares Advice from the High Growth Handbook, a Guide to Scaling Startups
+- [[jocko-willink-and-mike-sarraille-helping-veterans-transition]] — Jocko Willink and Mike Sarraille - Helping Veterans Transition into the Private Sector
+- [[jessica-livingston-shares-9-things-she-learned-from-founding]] — Jessica Livingston Shares 9 Things She Learned From Founding YC
+- [[mariya-nurislamova-founder-of-scentbird-at-the-female-founde]] — Mariya Nurislamova, Founder of Scentbird at the Female Founders Conference
+- [[reshma-shetty-founder-of-ginkgo-bioworks-at-the-female-found]] — Reshma Shetty, Founder of Ginkgo Bioworks at the Female Founders Conference
+- [[fermat-s-library-cofounders-joa-o-batalha-and-lui-s-batalha]] — Fermat's Library Cofounders João Batalha and Luís Batalha
+- [[female-founders-conference-new-york]] — Female Founders Conference - New York
+- [[announcing-work-at-a-startup]] — Announcing Work at a Startup
+- [[advice-for-students-and-recent-graduates-on-finding-jobs-liz]] — Advice for Students and Recent Graduates on Finding Jobs – Liz Wessel of WayUp
+- [[simon-benjamin-on-architectures-for-quantum-computing]] — Simon Benjamin on Architectures for Quantum Computing
+- [[john-preskill-on-quantum-computing]] — John Preskill on Quantum Computing
+- [[mathematical-approaches-to-image-processing-with-carola-sch-]] — Mathematical Approaches to Image Processing with Carola Schönlieb
+- [[avni-patel-thompson-at-the-seattle-female-founders-conferenc]] — Avni Patel Thompson at the Seattle Female Founders Conference
+- [[helping-landlords-find-tenants-sean-mitchell-of-rezi]] — Helping Landlords Find Tenants – Sean Mitchell of Rezi
+- [[kieran-snyder-of-textio-at-the-seattle-female-founders-confe]] — Kieran Snyder of Textio at the Seattle Female Founders Conference
+- [[crypto-investors-linda-xie-and-avichal-garg]] — Crypto Investors - Linda Xie and Avichal Garg
+- [[a-i-policy-and-public-perception-miles-brundage-and-tim-hwan]] — A.I. Policy and Public Perception - Miles Brundage and Tim Hwang
+- [[claire-mcdonnell-and-jennifer-kim-on-building-an-inclusive-c]] — Claire McDonnell and Jennifer Kim on Building an Inclusive Company Culture
+- [[anne-wojcicki-how-to-build-the-future]] — Anne Wojcicki : How to Build the Future
+- [[cost-vs-quality-in-edtech-keith-schacht-avichal-garg-and-geo]] — Cost vs Quality in Edtech – Keith Schacht, Avichal Garg, and Geoff Ralston
+- [[3d-home-printing-for-the-developing-world-alexandria-lafci-a]] — 3D Home Printing for the Developing World – Alexandria Lafci and Brett Hagler of New Story Charity
+- [[breaking-down-hackerrank-s-survey-of-40-000-developers-with-]] — Breaking Down HackerRank's Survey of 40,000 Developers with Vivek Ravisankar
+- [[funding-is-an-outcome-of-building-a-good-business-porter-bra]] — Funding Is an Outcome of Building a Good Business - Porter Braswell of Jopwell
+- [[andy-bromberg-startup-investor-school-day-4]] — Andy Bromberg - Startup Investor School Day 4
+- [[ron-conway-startup-investor-school-day-4]] — Ron Conway - Startup Investor School Day 4
+- [[elad-gil-and-pejman-nozad-startup-investor-school-day-3]] — Elad Gil and Pejman Nozad - Startup Investor School Day 3
+- [[jeff-clavier-and-andrea-zurek-startup-investor-school-day-3]] — Jeff Clavier and Andrea Zurek - Startup Investor School Day 3
+- [[startup-investor-school-day-4-live-stream]] — Startup Investor School Day 4 Live Stream
+- [[dalton-caldwell-startup-investor-school-day-2]] — Dalton Caldwell - Startup Investor School Day 2
+- [[michael-seibel-startup-investor-school-day-2]] — Michael Seibel - Startup Investor School Day 2
+- [[paul-buchheit-startup-investor-school-day-2]] — Paul Buchheit - Startup Investor School Day 2
+- [[carolynn-levy-and-kirsty-nathoo-startup-investor-school-day-]] — Carolynn Levy and Kirsty Nathoo - Startup Investor School Day 1
+- [[geoff-ralston-s-intro-startup-investor-school-day-1]] — Geoff Ralston's Intro - Startup Investor School Day 1
+- [[sam-altman-startup-investor-school-day-1]] — Sam Altman - Startup Investor School Day 1
+- [[startup-investor-school-day-2-live-stream]] — Startup Investor School Day 2 Live Stream
+- [[startup-investor-school-day-1-live-stream]] — Startup Investor School Day 1 Live Stream
+- [[the-number-one-goal-is-getting-started-avni-patel-thompson-o]] — The Number One Goal is Getting Started - Avni Patel Thompson of Poppy
+- [[uncut-interview-with-sam-altman-on-masters-of-scale-audio]] — Uncut Interview with Sam Altman on Masters of Scale [Audio]
+- [[startup-investor-school-preview-with-geoff-ralston]] — Startup Investor School Preview with Geoff Ralston
+- [[it-s-surprising-how-much-small-teams-can-get-done-sam-chaudh]] — It's Surprising How Much Small Teams Can Get Done - Sam Chaudhary of ClassDojo
+- [[alex-blumberg-of-gimlet-media]] — Alex Blumberg of Gimlet Media
+- [[leah-culver-of-breaker-and-tom-sparks-of-yc-answer-your-ques]] — Leah Culver of Breaker and Tom Sparks of YC Answer Your Questions About Security and Podcasting
+- [[tim-urban-of-wait-but-why]] — Tim Urban of Wait But Why
+
+### 2017
+- [[be-wary-of-solving-a-small-rare-problem-des-traynor-of-inter]] — Be Wary of Solving a Small, Rare Problem - Des Traynor of Intercom
+- [[there-s-an-art-to-getting-brilliant-people-to-surprise-thems]] — There's an Art to Getting Brilliant People to Surprise Themselves - Kevin Slavin of The Shed
+- [[preston-silverman-on-building-out-a-marketplace-in-education]] — Preston Silverman on Building out a Marketplace in Education - at YC Edtech Night
+- [[microbes-robots-and-ambition-robin-sloan-on-his-novel-sourdo]] — Microbes, Robots, and Ambition - Robin Sloan on His Novel Sourdough
+- [[keith-schacht-and-doug-peltz-on-what-traction-feels-like-at-]] — Keith Schacht and Doug Peltz on What Traction Feels Like - at YC Edtech Night
+- [[sarah-chou-on-finding-product-market-fit-in-the-education-in]] — Sarah Chou on Finding Product-Market Fit in the Education Industry - at YC Edtech Night
+- [[building-dota-bots-that-beat-pros-openai-s-greg-brockman-szy]] — Building Dota Bots That Beat Pros - OpenAI's Greg Brockman, Szymon Sidor, and Sam Altman
+- [[casey-neistat-and-matt-hackett-on-live-video-s-struggle-for-]] — Casey Neistat and Matt Hackett on Live Video's Struggle for Interestingness
+- [[the-most-important-decision-is-getting-started-laura-behrens]] — The Most Important Decision is Getting Started – Laura Behrens Wu
+- [[mark-zuckerberg-on-yahoo-s-billion-dollar-offer]] — Mark Zuckerberg On Yahoo's Billion Dollar Offer
+- [[experiments-in-art-and-technology-with-artforum-editor-miche]] — Experiments in Art and Technology with Artforum Editor Michelle Kuo
+- [[content-marketing-tips-from-experts-at-first-round-capital-a]] — Content Marketing Tips from Experts at First Round Capital and Andreessen Horowitz
+- [[mr-robot-s-co-producer-and-writer-kor-adana]] — Mr. Robot's Co-Producer and Writer - Kor Adana
+- [[communicate-with-users-build-something-they-want-ryan-hoover]] — Communicate with Users, Build Something They Want - Ryan Hoover of Product Hunt
+- [[don-t-start-a-blog-start-a-cult-mr-money-mustache]] — Don't Start a Blog, Start a Cult - Mr. Money Mustache
+- [[your-whole-goal-is-to-not-quit-courtland-allen-of-indie-hack]] — Your Whole Goal Is to Not Quit - Courtland Allen of Indie Hackers
+- [[building-a-startup-is-about-solving-a-problem-avni-patel-tho]] — Building a Startup is About Solving a Problem - Avni Patel Thompson of Poppy
+- [[the-technical-challenges-of-measuring-gravitational-waves-ra]] — The Technical Challenges of Measuring Gravitational Waves - Rana Adhikari of LIGO
+- [[elizabeth-iorns-on-biotech-companies-in-yc]] — Elizabeth Iorns on Biotech Companies in YC
+- [[the-challenges-a-repeat-founder-faces-tikhon-bernstam]] — The Challenges a Repeat Founder Faces - Tikhon Bernstam
+- [[artist-lauren-mccarthy-will-be-your-home-s-brain]] — Artist Lauren McCarthy Will Be Your Home's Brain
+- [[spotting-ecommerce-trends-in-shipping-data-laura-behrens-wu]] — Spotting Ecommerce Trends in Shipping Data - Laura Behrens Wu
+- [[the-ceo-who-pays-employees-to-de-locate-from-the-bay]] — The CEO Who Pays Employees to De-Locate From the Bay
+- [[founders-of-science-exchange-goldbely-and-the-flex-company-d]] — Founders of Science Exchange, Goldbely, and The Flex Company Discuss Fundraising
+- [[baidu-s-ai-lab-director-on-advancing-speech-recognition-and-]] — Baidu's AI Lab Director on Advancing Speech Recognition and Simulation
+- [[diane-greene-s-advice-for-founders]] — Diane Greene's Advice for Founders
+- [[jeff-dean-s-lecture-for-yc-ai]] — Jeff Dean's Lecture for YC AI
+- [[vmware-cofounder-diane-greene-with-jessica-livingston-at-the]] — VMware Cofounder Diane Greene with Jessica Livingston at the Female Founders Conference
+- [[morgan-debaun-on-reaching-20m-millennials-with-kat-manalac-a]] — Morgan DeBaun on Reaching 20M Millennials - With Kat Manalac at the Female Founders Conference
+- [[emily-weiss-on-the-insights-that-grew-glossier-with-amy-buec]] — Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference
+- [[jessica-livingston-what-s-different-about-unicorns]] — Jessica Livingston - What's Different about Unicorns
+- [[making-music-and-art-through-machine-learning-doug-eck-of-ma]] — Making Music and Art Through Machine Learning - Doug Eck of Magenta
+- [[ipfs-coinlist-and-the-filecoin-ico-with-juan-benet-and-dalto]] — IPFS, CoinList, and the Filecoin ICO with Juan Benet and Dalton Caldwell
+- [[female-founders-conference-2017]] — Female Founders Conference 2017
+- [[ex-machina-s-scientific-advisor-murray-shanahan]] — Ex Machina's Scientific Advisor - Murray Shanahan
+- [[scaling-growth-gustaf-alstromer-yc-partner-formerly-airbnb-e]] — Scaling Growth | Gustaf Alstromer, YC Partner (formerly Airbnb) & Ed Baker (formerly Uber)
+- [[how-should-business-schools-prepare-students-for-startups-je]] — How Should Business Schools Prepare Students for Startups? – Jeff Bussgang and Michael Seibel
+- [[at-the-intersection-of-ai-governments-and-google-tim-hwang]] — At the Intersection of AI, Governments, and Google - Tim Hwang
+- [[building-your-board-glenn-kelman]] — Building Your Board | Glenn Kelman
+- [[rick-and-morty-writer-ryan-ridley]] — Rick and Morty Writer: Ryan Ridley
+- [[scaling-product-fireside-with-joe-gebbia-and-reid-hoffman]] — Scaling Product | Fireside with Joe Gebbia and Reid Hoffman
+- [[ben-huh-on-therapy]] — Ben Huh on Therapy
+- [[erin-frey-on-therapy]] — Erin Frey on Therapy
+- [[scaling-culture-jason-kilar-former-hulu-ceo]] — Scaling Culture | Jason Kilar, former Hulu CEO
+- [[from-startup-to-scaleup-sam-altman-and-reid-hoffman]] — From Startup to Scaleup | Sam Altman and Reid Hoffman
+- [[jessica-livingston-on-cofounder-disputes-and-making-somethin]] — Jessica Livingston on Cofounder Disputes and Making Something People Want
+- [[an-ai-primer-with-wojciech-zaremba]] — An AI Primer with Wojciech Zaremba
+- [[hiring-engineers-with-ammon-bartram]] — Hiring Engineers with Ammon Bartram
+- [[the-technical-advisor-for-silicon-valley-on-hbo-ed-mcmanus]] — The Technical Advisor for Silicon Valley on HBO: Ed McManus
+- [[ruchi-sanghvi-on-sweating-the-details]] — Ruchi Sanghvi on Sweating the Details
+- [[know-why-you-re-starting-a-company-danae-ringelmann-of-indie]] — Know Why You're Starting a Company - Danae Ringelmann of Indiegogo
+- [[jessica-livingston-s-advice-for-founders]] — Jessica Livingston's Advice For Founders
+- [[kat-manalac-s-whale-ama]] — Kat Manalac's Whale AMA
+- [[mark-zuckerberg-on-taking-risks-and-finding-talented-people]] — Mark Zuckerberg on Taking Risks and Finding Talented People
+- [[dalton-caldwell-s-whale-ama]] — Dalton Caldwell's Whale AMA
+- [[drew-houston-how-to-build-the-future]] — Drew Houston : How to Build the Future
+- [[sam-altman-s-whale-ama]] — Sam Altman's Whale AMA
+- [[lessons-from-doing-yc-twice-harj-taggar]] — Lessons From Doing YC Twice - Harj Taggar
+- [[office-hours-with-sam-altman]] — Office Hours with Sam Altman
+- [[elon-musk-on-fear]] — Elon Musk On Fear
+- [[elon-musk-on-how-to-be-most-useful]] — Elon Musk On How To Be Most Useful
+- [[elon-musk-s-video-game-recommendations]] — Elon Musk's Video Game Recommendations
+- [[how-elon-musk-spends-his-time]] — How Elon Musk Spends His Time
+- [[how-to-be-the-next-elon-musk-according-to-elon-musk]] — How To Be The Next Elon Musk According To Elon Musk
+- [[what-would-elon-musk-work-on-if-he-were-22]] — What Would Elon Musk Work On If He Were 22?
+
+### 2016
+- [[mark-zuckerberg-how-to-build-the-future]] — Mark Zuckerberg : How to Build the Future
+- [[q-a-with-yc-at-the-female-founders-conference-2016]] — Q&A with YC at the Female Founders Conference 2016
+- [[reshma-shetty-speaks-at-y-combinator-s-female-founders-confe]] — Reshma Shetty Speaks at Y Combinator's Female Founders Conference 2016
+- [[selina-tobaccowala-at-the-female-founders-conference-2016]] — Selina Tobaccowala at the Female Founders Conference 2016
+- [[urska-srsen-speaks-at-y-combinator-female-founder-conference]] — Urska Srsen Speaks at Y Combinator Female Founder Conference 2016
+- [[fundraising-panel-at-female-founders-conference-2016]] — Fundraising Panel at Female Founders Conference 2016
+- [[the-muse-s-kathryn-minshew-speaks-at-the-female-founders-con]] — The Muse's Kathryn Minshew Speaks at the Female Founders Conference 2016
+- [[gobble-founder-ooshma-garg-speaks-at-female-founders-confere]] — Gobble founder Ooshma Garg speaks at Female Founders Conference 2016
+
+### 2015
+- [[adora-cheung-speaks-at-female-founders-conference-2015]] — Adora Cheung Speaks at Female Founders Conference 2015
+- [[fundraising-panel-at-female-founders-conference-2015]] — Fundraising Panel at Female Founders Conference 2015
+- [[grace-garey-speaks-at-female-founders-conference-2015]] — Grace Garey Speaks at Female Founders Conference 2015
+- [[jessica-livingston-speaks-at-female-founders-conference-2015]] — Jessica Livingston Speaks at Female Founders Conference 2015
+- [[kimberly-bryant-speaks-at-female-founders-conference-2015]] — Kimberly Bryant Speaks at Female Founders Conference 2015
+- [[olga-vidisheva-speaks-at-female-founders-conference-2015]] — Olga Vidisheva Speaks at Female Founders Conference 2015
+- [[ruchi-sanghvi-speaks-at-female-founders-conference-2015]] — Ruchi Sanghvi Speaks at Female Founders Conference 2015
+- [[tracy-young-speaks-at-female-founders-conference-2015]] — Tracy Young Speaks at Female Founders Conference 2015
+- [[yc-panel-at-female-founders-conference-2015]] — YC Panel at Female Founders Conference 2015
+
+### 2014
+- [[andrew-mason-at-startup-school-sv-2014]] — Andrew Mason at Startup School SV 2014
+- [[elizabeth-iorns-at-female-founders-conference-2014]] — Elizabeth Iorns at Female Founders Conference 2014
+- [[elli-sharef-at-female-founders-conference-2014]] — Elli Sharef at Female Founders Conference 2014
+- [[jessica-livingston-at-female-founders-conference-2014]] — Jessica Livingston at Female Founders Conference 2014
+- [[jessica-mah-at-female-founders-conference-2014]] — Jessica Mah at Female Founders Conference 2014
+- [[julia-hartz-at-female-founders-conference-2014]] — Julia Hartz at Female Founders Conference 2014
+- [[kathryn-minshew-at-female-founders-conference-2014]] — Kathryn Minshew at Female Founders Conference 2014

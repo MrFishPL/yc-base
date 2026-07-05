@@ -30,24 +30,34 @@ server, no vector store. Git-tracked Markdown is the source of truth; Claude Cod
 
 ## Corpus map (load on demand — don't read it all)
 
+The KB is a browsable tree (all files, no vector DB): **INDEX → topic / series / person → talks**.
+Topic and person pages carry a generated "Browse all N talks…" backlink block, so every node links
+down to its talks, and every talk links to its exact citations.
+
 | Need | Read |
 |---|---|
-| navigate the whole KB | `kb/INDEX.md` (read FIRST) |
+| navigate the whole KB | `kb/INDEX.md` (read FIRST — topics, people, series) |
+| all talks in a series | `kb/series/<slug>.md` (startup-school, lightcone, dalton-and-michael, how-to-start-a-startup, talks) |
 | which videos exist / mention X | `data/catalog.json` |
 | a single talk's thesis + key moments | `kb/talks/<slug>.md` |
-| cross-cutting synthesis (PMF, pricing, enterprise sales…) | `kb/topics/<topic>.md` |
-| a person or company | `kb/entities/people/<slug>.md`, `kb/entities/companies/<slug>.md` |
-| typed relationships across the corpus | `kb/graph.json` |
-| how to retrieve + cite | `.claude/skills/answer-from-kb/` |
+| cross-cutting synthesis + all talks on a topic | `kb/topics/<topic>.md` (has "Browse all N talks tagged …") |
+| a person + all their talks | `kb/entities/people/<slug>.md` (has "Browse all N talks featuring …") |
+| typed relationships / multi-hop | `kb/graph.json` |
+| how to search + cite (broad parallel method) | `.claude/skills/answer-from-kb/` |
 | where a new page belongs | `RESOLVER.md` (read BEFORE creating any page) |
+
+Regenerate the nav after ingesting: `python3 scripts/build_nav.py && python3 scripts/build_index.py`.
 
 ## Hard rules
 
 1. **Read `RESOLVER.md` before CREATING any page.** One primary home per fact; one file per
    entity. Every page's filename is its identity (kebab-case slug).
-2. **Search compiled `kb/` pages BEFORE answering.** Prefer topic pages for synthesis; drop to
-   talk pages for specifics. Delegate the search to the `retriever` subagent so raw transcript
-   text never floods the main context.
+2. **Search BROADLY before answering — fan out, don't narrow.** The corpus is ~620 talks, so a
+   single grep misses things. Launch several `retriever` subagents **in parallel**, each with a
+   different lens (topic / keyword / reframe / people / adjacency), then synthesize. Bias toward
+   **recall**: over-retrieve and filter rather than miss the best talk. Prefer topic pages for
+   synthesis, drill into their backlinked talks for specifics. Keeping search in subagents also
+   keeps raw transcript text out of the main context. (Full method: `answer-from-kb` skill.)
 3. **Cite every claim** as `[<slug> @ mm:ss]` rendered as a live deep-link
    `https://youtu.be/<video_id>?t=<seconds>`. **Never invent a quote or a timestamp** — copy the
    nearest real `[mm:ss]` from the cited page.
